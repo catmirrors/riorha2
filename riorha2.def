@@ -1,0 +1,7 @@
+; riorha2.def : DLL 用のモジュール パラメータ宣言
+
+LIBRARY      "riorha2"
+DESCRIPTION  'riorha2 Windows Dynamic Link Library'
+
+EXPORTS
+    ; 明示的なエクスポートはここへ記述できます
